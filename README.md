@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=747-diego&show_icons=true&theme=highcontrast)
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=747-diego&show_icons=true&theme=radical)
 
 
 - 🔭 I’m currently working on building Decentralized Applications on the Ethereum Network
