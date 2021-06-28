@@ -1,11 +1,11 @@
-### Hi there thanks for stopping by here on on the World Wide Web 🌎  Welcome 👋
+### Hi there thanks for stopping by here on on the World Wide Web 🌎    Welcome 👋
 
 <!--
 **747-diego/747-diego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=747-diego&show_icons=true&theme=radical)
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=747-diego&show_icons=true&theme=blue-green)
 
 
 - 🔭 I’m currently working on building Decentralized Applications on the Ethereum Network
