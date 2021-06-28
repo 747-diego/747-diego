@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Crypto !!
 - 📫 How to reach me: 747-diego -> Follow me on IG. 
 - 📲 Platforms: IG & Tik Tok (thenomad.engineer)
-- ✍🏼 Fun fact: I am a Crypto Cotent Creator with Nas Academy & the Metapurse foundation
+- ✍🏼 Fun fact: I am a Crypto Content Creator with Nas Academy & the Metapurse Foundation
 
