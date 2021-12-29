@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on NFT Marketplaces 
 - 🤔 I’m looking for help with Web 3.0
 - 💬 Ask me about Crypto !!
-- 📫 How to reach me: 747-diego -> Follow me on IG. 
+- 📫 How to reach me: diego@nomadengineers.io -> Email me! 
 - 📲 Platforms: IG & Tik Tok (thenomad.engineer)
 - ✍🏼 Fun fact: I am a Crypto Content Creator with Nas Academy & the Metapurse Foundation
 
