@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building Decentralized Applications on the Solana Network
 - 🌱 I’m currently learning Rust to build Dapps on Solana
 - 👯 I’m looking to collaborate on Solana Projects
-- 🤔 I’m looking for help with scanning the trenches, need more SOL.
-- 💬 Ask me about Crypto !!
+- 🤔 I’m looking for like minded founders building startups.
+- 💬 Ask me about my experience at buildspace in SF ( it tunred into founders.inc now )
 - 📫 How to reach me: diego@nomadengineers.io -> Email me! 
-- 📲 Platforms: IG & Tik Tok (thenomad.engineer)
-- ✍🏼 Fun fact: I was a Crypto Content Creator with Nas Academy & the Metapurse Foundation
+- ✍🏼 Fun fact: I was a software endingeering educator for my school
 
